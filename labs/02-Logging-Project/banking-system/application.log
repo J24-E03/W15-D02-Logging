@@ -1,0 +1,16 @@
+Jan 21, 2025 11:51:13 AM my.bank.Main main
+INFO: Starting the Banking Management System...
+Jan 21, 2025 12:11:57 PM my.bank.Main main
+INFO: Starting the Banking Management System...
+Jan 21, 2025 12:11:58 PM my.bank.ConsoleApplication run
+INFO: Application is running.
+Jan 21, 2025 12:12:31 PM my.bank.repository.UserRepository createNewUser
+INFO: A new user added to the system
+Jan 21, 2025 12:12:31 PM my.bank.ConsoleApplication showSignupPrompt
+INFO: User signed up successfully.
+Jan 21, 2025 12:12:44 PM my.bank.ConsoleApplication showLoginPrompt
+INFO: User logged in successfully.
+Jan 21, 2025 12:13:25 PM my.bank.repository.AccountRepository transfer
+INFO: New Transfer was performed successfully.
+Jan 21, 2025 12:13:29 PM my.bank.Main main
+INFO: Shutting down the Banking Management System.
