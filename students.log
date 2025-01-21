@@ -1,0 +1,62 @@
+Jan 21, 2025 7:58:47 PM StudentManagementSystem addStudent
+INFO: Added student: Rob
+Jan 21, 2025 7:58:47 PM StudentManagementSystem addStudent
+INFO: Added student: Bob
+Jan 21, 2025 7:58:47 PM StudentManagementSystem addStudent
+INFO: Added student: Jenny
+Jan 21, 2025 8:01:55 PM StudentManagementSystem addStudent
+INFO: Added student: Rob
+Jan 21, 2025 8:01:55 PM StudentManagementSystem addStudent
+INFO: Added student: Bob
+Jan 21, 2025 8:01:55 PM StudentManagementSystem addStudent
+INFO: Added student: Jenny
+Jan 21, 2025 8:02:54 PM StudentManagementSystem addStudent
+INFO: Added student: Rob
+Jan 21, 2025 8:02:55 PM StudentManagementSystem addStudent
+INFO: Added student: Bob
+Jan 21, 2025 8:02:55 PM StudentManagementSystem addStudent
+INFO: Added student: Jenny
+Jan 21, 2025 8:02:55 PM StudentManagementSystem removeStudent
+INFO: Removed student: Bob
+Jan 21, 2025 8:02:55 PM StudentManagementSystem removeStudent
+WARNING: Attempted to remove a non-existing student: Andrew
+Jan 21, 2025 8:03:55 PM StudentManagementSystem addStudent
+INFO: Added student: Rob
+Jan 21, 2025 8:03:55 PM StudentManagementSystem addStudent
+INFO: Added student: Bob
+Jan 21, 2025 8:03:55 PM StudentManagementSystem addStudent
+INFO: Added student: Jenny
+Jan 21, 2025 8:03:55 PM StudentManagementSystem removeStudent
+INFO: Removed student: Bob
+Jan 21, 2025 8:03:55 PM StudentManagementSystem removeStudent
+WARNING: Attempted to remove a non-existing student: Andrew
+Jan 21, 2025 8:14:17 PM StudentManagementSystem addStudent
+INFO: Added student: Rob
+Jan 21, 2025 8:14:17 PM StudentManagementSystem addStudent
+INFO: Added student: Bob
+Jan 21, 2025 8:14:17 PM StudentManagementSystem addStudent
+INFO: Added student: Jenny
+Jan 21, 2025 8:14:17 PM StudentManagementSystem removeStudent
+INFO: Removed student: Bob
+Jan 21, 2025 8:14:17 PM StudentManagementSystem removeStudent
+WARNING: Attempted to remove a non-existing student: Andrew
+Jan 21, 2025 8:15:20 PM StudentManagementSystem addStudent
+INFO: Added student: Rob
+Jan 21, 2025 8:15:21 PM StudentManagementSystem addStudent
+INFO: Added student: Bob
+Jan 21, 2025 8:15:21 PM StudentManagementSystem addStudent
+INFO: Added student: Jenny
+Jan 21, 2025 8:15:21 PM StudentManagementSystem removeStudent
+INFO: Removed student: Bob
+Jan 21, 2025 8:15:21 PM StudentManagementSystem removeStudent
+WARNING: Attempted to remove a non-existing student: Andrew
+Jan 21, 2025 8:16:40 PM StudentManagementSystem addStudent
+INFO: Added student: Rob
+Jan 21, 2025 8:16:40 PM StudentManagementSystem addStudent
+INFO: Added student: Bob
+Jan 21, 2025 8:16:40 PM StudentManagementSystem addStudent
+INFO: Added student: Jenny
+Jan 21, 2025 8:16:40 PM StudentManagementSystem removeStudent
+INFO: Removed student: Bob
+Jan 21, 2025 8:16:40 PM StudentManagementSystem removeStudent
+WARNING: Attempted to remove a non-existing student: Andrew
