@@ -1,0 +1,5 @@
+Time: 2025-01-21 11:24:23, Level: WARNING, Message: Student: {0} already exists in the list
+Time: 2025-01-21 11:24:23, Level: SEVERE, Message: Error adding student: {0}
+Time: 2025-01-21 11:24:23, Level: SEVERE, Message: Error adding student: {0}
+Time: 2025-01-21 11:24:23, Level: WARNING, Message: Student: {0} does not exist in the list
+Time: 2025-01-21 11:24:23, Level: SEVERE, Message: Error removing student: {0}
