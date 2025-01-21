@@ -1,0 +1,5 @@
+[2025-01-21 11:31:14] [CONFIG] [org.example.StudentManagementSystem] Students added. 
+[2025-01-21 11:31:14] [INFO] [org.example.StudentManagementSystem] Student added: {0} 
+[2025-01-21 11:31:14] [INFO] [org.example.StudentManagementSystem] Student added: {0} 
+[2025-01-21 11:31:14] [INFO] [org.example.StudentManagementSystem] Student removed: {0} 
+[2025-01-21 11:31:14] [FINE] [org.example.StudentManagementSystem] Fetching the student count. 
