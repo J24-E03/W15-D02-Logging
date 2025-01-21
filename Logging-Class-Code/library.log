@@ -64,3 +64,268 @@ WARNING: Warning username incorrect
 <!DOCTYPE log SYSTEM "logger.dtd">
 <log>
 </log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-01-21T09:21:13.790746400Z</date>
+  <millis>1737451273790</millis>
+  <nanos>746400</nanos>
+  <sequence>2</sequence>
+  <logger>com.omar.Main</logger>
+  <level>SEVERE</level>
+  <class>com.omar.Main</class>
+  <method>borrowBook</method>
+  <thread>1</thread>
+  <message>Book is not found in DB Java Programming</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-01-21T09:21:53.884430700Z</date>
+  <millis>1737451313884</millis>
+  <nanos>430700</nanos>
+  <sequence>2</sequence>
+  <logger>com.omar.Main</logger>
+  <level>WARNING</level>
+  <class>com.omar.Main</class>
+  <method>borrowBook</method>
+  <thread>1</thread>
+  <message>Book is already borrowed out Java Programming</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-01-21T09:22:19.058652400Z</date>
+  <millis>1737451339058</millis>
+  <nanos>652400</nanos>
+  <sequence>2</sequence>
+  <logger>com.omar.Main</logger>
+  <level>WARNING</level>
+  <class>com.omar.Main</class>
+  <method>borrowBook</method>
+  <thread>1</thread>
+  <message>Book is already borrowed out Java Programming</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-01-21T09:22:24.325820400Z</date>
+  <millis>1737451344325</millis>
+  <nanos>820400</nanos>
+  <sequence>2</sequence>
+  <logger>com.omar.Main</logger>
+  <level>SEVERE</level>
+  <class>com.omar.Main</class>
+  <method>borrowBook</method>
+  <thread>1</thread>
+  <message>Book is not found in DB Wrong name</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-01-21T09:23:04.756549800Z</date>
+  <millis>1737451384756</millis>
+  <nanos>549800</nanos>
+  <sequence>2</sequence>
+  <logger>com.omar.Main</logger>
+  <level>SEVERE</level>
+  <class>com.omar.Main</class>
+  <method>borrowBook</method>
+  <thread>1</thread>
+  <message>Book is not found in DB Wrong name</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-01-21T09:27:14.427184100Z</date>
+  <millis>1737451634427</millis>
+  <nanos>184100</nanos>
+  <sequence>0</sequence>
+  <logger>com.omar.Main</logger>
+  <level>SEVERE</level>
+  <class>com.omar.Main</class>
+  <method>borrowBook</method>
+  <thread>1</thread>
+  <message>Book is not found in DB Wrong name</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-01-21T09:27:23.255863100Z</date>
+  <millis>1737451643255</millis>
+  <nanos>863100</nanos>
+  <sequence>0</sequence>
+  <logger>com.omar.Main</logger>
+  <level>SEVERE</level>
+  <class>com.omar.Main</class>
+  <method>borrowBook</method>
+  <thread>1</thread>
+  <message>Book is not found in DB Wrong name</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-01-21T09:27:45.000520800Z</date>
+  <millis>1737451665000</millis>
+  <nanos>520800</nanos>
+  <sequence>0</sequence>
+  <logger>com.omar.Main</logger>
+  <level>WARNING</level>
+  <class>com.omar.Main</class>
+  <method>borrowBook</method>
+  <thread>1</thread>
+  <message>Book is already borrowed out Data Science</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-01-21T09:28:34.247830300Z</date>
+  <millis>1737451714247</millis>
+  <nanos>830300</nanos>
+  <sequence>0</sequence>
+  <logger>com.omar.Main</logger>
+  <level>WARNING</level>
+  <class>com.omar.Main</class>
+  <method>returnBook</method>
+  <thread>1</thread>
+  <message>Book is not checkout out Data Science</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-01-21T09:32:36.810036200Z</date>
+  <millis>1737451956810</millis>
+  <nanos>36200</nanos>
+  <sequence>0</sequence>
+  <logger>com.omar.Main</logger>
+  <level>WARNING</level>
+  <class>com.omar.Main</class>
+  <method>borrowBook</method>
+  <thread>1</thread>
+  <message>Book is already borrowed out Data Science</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-01-21T09:32:41.988979500Z</date>
+  <millis>1737451961988</millis>
+  <nanos>979500</nanos>
+  <sequence>0</sequence>
+  <logger>com.omar.Main</logger>
+  <level>WARNING</level>
+  <class>com.omar.Main</class>
+  <method>borrowBook</method>
+  <thread>1</thread>
+  <message>Book is already borrowed out Data Science</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-01-21T09:33:05.297338200Z</date>
+  <millis>1737451985297</millis>
+  <nanos>338200</nanos>
+  <sequence>4</sequence>
+  <logger>com.omar.Main</logger>
+  <level>WARNING</level>
+  <class>com.omar.Main</class>
+  <method>borrowBook</method>
+  <thread>1</thread>
+  <message>Book is already borrowed out Data Science</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-01-21T09:34:11.795511500Z</date>
+  <millis>1737452051795</millis>
+  <nanos>511500</nanos>
+  <sequence>4</sequence>
+  <logger>com.omar.Main</logger>
+  <level>WARNING</level>
+  <class>com.omar.Main</class>
+  <method>borrowBook</method>
+  <thread>1</thread>
+  <message>Book is already borrowed out Data Science</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-01-21T09:39:17.234546500Z</date>
+  <millis>1737452357234</millis>
+  <nanos>546500</nanos>
+  <sequence>4</sequence>
+  <logger>com.omar.Main</logger>
+  <level>WARNING</level>
+  <class>com.omar.Main</class>
+  <method>borrowBook</method>
+  <thread>1</thread>
+  <message>Book is already borrowed out Data Science</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-01-21T09:39:38.853682400Z</date>
+  <millis>1737452378853</millis>
+  <nanos>682400</nanos>
+  <sequence>4</sequence>
+  <logger>com.omar.Main</logger>
+  <level>WARNING</level>
+  <class>com.omar.Main</class>
+  <method>borrowBook</method>
+  <thread>1</thread>
+  <message>Book is already borrowed out Data Science</message>
+</record>
+</log>
+Time: 1737452432709, Logging Level: WARNING, Logger Name: com.omar.Main, Message: Book is already borrowed out {0}
